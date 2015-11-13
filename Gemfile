@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'haml', '4.0.5'
+gem 'simple_form', '~> 3.0.2'
